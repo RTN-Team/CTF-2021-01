@@ -29,5 +29,5 @@
 
 ### Forensics
 
-- [dragons](./challenges/misc/dragons/README.md)
-- [unknown_file](./challenges/misc/unknown_file/README.md)
+- [dragons](./challenges/forensics/dragons/README.md)
+- [unknown_file](./challenges/forensics/unknown_file/README.md)
