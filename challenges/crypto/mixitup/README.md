@@ -1,0 +1,1 @@
+We intercepted some secret pictures of which we believe contains a prototype of our competitor's newest smoothie recipe. It seems that they have mixed up more than just fruits eXclusively. Can you help us finding out what they added?
