@@ -1,6 +1,6 @@
 # Noncense
 
-**Points:** 800 (
+**Points:** 800 (798 after dynamic scoring)
 
 **Flag:** RTN{h0W_mUcH_m0r3_n0nS3ns3_d0_Y0u_w4Nt}
 
