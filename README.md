@@ -7,27 +7,27 @@
 
 ### Cryptography
 
-- [clavdivs](./challenges/crypto/clavdivs/README.md)
-- [mixitup](./challenges/crypto/mixitup/README.md)
-- [ssssecret](./challenges/crypto/ssssecret/README.md)
-- [rehasher](./challenges/crypto/rehasher/README.md)
-- [noncense](./challenges/crypto/noncense/README.md)
+- [clavdivs](./challenges/crypto/clavdivs)
+- [mixitup](./challenges/crypto/mixitup)
+- [ssssecret](./challenges/crypto/ssssecret)
+- [rehasher](./challenges/crypto/rehasher)
+- [noncense](./challenges/crypto/noncense)
 
 ### Reverse Engineering
 
-- [reverseme](./challenges/re/reverseme/README.md)
-- [radish](./challenges/re/radish/README.md)
-- [press](./challenges/re/press/README.md)
-- [espresso](./challenges/re/espresso/README.md)
-- [saturn](./challenges/re/saturn/README.md)
-- [lambdastic](./challenges/re/lambdastic/README.md)
+- [reverseme](./challenges/re/reverseme)
+- [radish](./challenges/re/radish)
+- [press](./challenges/re/press)
+- [espresso](./challenges/re/espresso)
+- [saturn](./challenges/re/saturn)
+- [lambdastic](./challenges/re/lambdastic)
 
 ### Miscellaneous
 
-- [matryoshka](./challenges/misc/matryoshka/README.md)
-- [webcat](./challenges/misc/webcat/README.md)
+- [matryoshka](./challenges/misc/matryoshka)
+- [webcat](./challenges/misc/webcat)
 
 ### Forensics
 
-- [dragons](./challenges/forensics/dragons/README.md)
-- [unknown_file](./challenges/forensics/unknown_file/README.md)
+- [dragons](./challenges/forensics/dragons)
+- [unknown_file](./challenges/forensics/unknown_file)
